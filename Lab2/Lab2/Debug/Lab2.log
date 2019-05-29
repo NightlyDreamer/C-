@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+d:\shara\myprograms\lab2\lab2\lab2.cpp(48): warning C4018: >: несоответствие типов со знаком и без знака
+d:\shara\myprograms\lab2\lab2\lab2.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+d:\shara\myprograms\lab2\lab2\lab2.cpp(70): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\shara\myprograms\lab2\lab2\lab2.cpp(71): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab2.vcxproj -> D:\shara\MyPrograms\Lab2\Debug\Lab2.exe

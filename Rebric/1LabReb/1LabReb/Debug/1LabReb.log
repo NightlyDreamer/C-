@@ -1,0 +1,22 @@
+﻿  1LabReb.cpp
+d:\shara\myprograms\1labreb\1labreb\1labreb.cpp(88): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+d:\shara\myprograms\1labreb\1labreb\1labreb.cpp(107): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+d:\shara\myprograms\1labreb\1labreb\1labreb.cpp(128): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+d:\shara\myprograms\1labreb\1labreb\1labreb.cpp(154): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  1LabReb.vcxproj -> D:\shara\MyPrograms\1LabReb\Debug\1LabReb.exe

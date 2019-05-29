@@ -1,0 +1,12 @@
+﻿  Lab2.cpp
+d:\shara\myprograms\lab2\lab2\lab2.cpp(106): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+d:\shara\myprograms\lab2\lab2\lab2.cpp(142): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Lab2.vcxproj -> D:\shara\MyPrograms\Lab2\Debug\Lab2.exe

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Histo.cpp
+f:\myprograms\histo\histo\histo.cpp(35): error C2109: для индекса требуется массив или указатель
+f:\myprograms\histo\histo\histo.cpp(112): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
